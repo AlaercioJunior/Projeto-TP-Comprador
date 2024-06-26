@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|c:\\users\\alaercio\\source\\repos\\tp_ms_comprador\\tp_ms_comprador\\servicos\\servcomprador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|solutionrelative:tp_ms_comprador\\servicos\\servcomprador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|c:\\users\\alaercio\\source\\repos\\tp_ms_comprador\\tp_ms_comprador\\dto\\inserircompradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|solutionrelative:tp_ms_comprador\\dto\\inserircompradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|c:\\users\\alaercio\\source\\repos\\tp_ms_comprador\\tp_ms_comprador\\servicos\\entidadecomprador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|solutionrelative:tp_ms_comprador\\servicos\\entidadecomprador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|c:\\users\\alaercio\\source\\repos\\tp_ms_comprador\\tp_ms_comprador\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|solutionrelative:tp_ms_comprador\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|c:\\users\\alaercio\\source\\repos\\tp_ms_comprador\\tp_ms_comprador\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|solutionrelative:tp_ms_comprador\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|c:\\users\\alaercio\\source\\repos\\tp_ms_comprador\\tp_ms_comprador\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|solutionrelative:tp_ms_comprador\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|c:\\users\\alaercio\\source\\repos\\tp_ms_comprador\\tp_ms_comprador\\servicos\\compradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|solutionrelative:tp_ms_comprador\\servicos\\compradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|c:\\users\\alaercio\\source\\repos\\tp_ms_comprador\\tp_ms_comprador\\migrations\\20240620234153_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0B4FFB-9E87-492A-8A07-750107B3B0EE}|TP_MS_COMPRADOR\\TP_MS_COMPRADOR.csproj|solutionrelative:tp_ms_comprador\\migrations\\20240620234153_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\appsettings.json",
+              "RelativeDocumentMoniker": "TP_MS_COMPRADOR\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\appsettings.json",
+              "RelativeToolTip": "TP_MS_COMPRADOR\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T23:43:37.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\DataContext.cs",
+              "RelativeDocumentMoniker": "TP_MS_COMPRADOR\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\DataContext.cs",
+              "RelativeToolTip": "TP_MS_COMPRADOR\\DataContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:45:28.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServComprador.cs",
+              "DocumentMoniker": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\Servicos\\ServComprador.cs",
+              "RelativeDocumentMoniker": "TP_MS_COMPRADOR\\Servicos\\ServComprador.cs",
+              "ToolTip": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\Servicos\\ServComprador.cs",
+              "RelativeToolTip": "TP_MS_COMPRADOR\\Servicos\\ServComprador.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:03:55.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InserirCompradorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\DTO\\InserirCompradorDTO.cs",
+              "RelativeDocumentMoniker": "TP_MS_COMPRADOR\\DTO\\InserirCompradorDTO.cs",
+              "ToolTip": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\DTO\\InserirCompradorDTO.cs",
+              "RelativeToolTip": "TP_MS_COMPRADOR\\DTO\\InserirCompradorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:00:53.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntidadeComprador.cs",
+              "DocumentMoniker": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\Servicos\\EntidadeComprador.cs",
+              "RelativeDocumentMoniker": "TP_MS_COMPRADOR\\Servicos\\EntidadeComprador.cs",
+              "ToolTip": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\Servicos\\EntidadeComprador.cs",
+              "RelativeToolTip": "TP_MS_COMPRADOR\\Servicos\\EntidadeComprador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:02:57.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240620234153_teste.cs",
+              "DocumentMoniker": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\Migrations\\20240620234153_teste.cs",
+              "RelativeDocumentMoniker": "TP_MS_COMPRADOR\\Migrations\\20240620234153_teste.cs",
+              "ToolTip": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\Migrations\\20240620234153_teste.cs",
+              "RelativeToolTip": "TP_MS_COMPRADOR\\Migrations\\20240620234153_teste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:41:54.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TP_MS_COMPRADOR\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TP_MS_COMPRADOR\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T23:43:15.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompradorController.cs",
+              "DocumentMoniker": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\Servicos\\CompradorController.cs",
+              "RelativeDocumentMoniker": "TP_MS_COMPRADOR\\Servicos\\CompradorController.cs",
+              "ToolTip": "C:\\Users\\Alaercio\\source\\repos\\TP_MS_COMPRADOR\\TP_MS_COMPRADOR\\Servicos\\CompradorController.cs",
+              "RelativeToolTip": "TP_MS_COMPRADOR\\Servicos\\CompradorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:03:41.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

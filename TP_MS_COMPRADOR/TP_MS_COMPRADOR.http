@@ -1,0 +1,6 @@
+@TP_MS_COMPRADOR_HostAddress = http://localhost:5007
+
+GET {{TP_MS_COMPRADOR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
